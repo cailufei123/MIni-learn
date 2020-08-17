@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/demo/index",
+    "pages/index/index",
+    "pages/logs/logs"
+  
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#748",
+    "navigationBarTitleText": "蔡鲁飞",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":"false"
+    
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
