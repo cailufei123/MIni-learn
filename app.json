@@ -9,8 +9,8 @@
     "backgroundTextStyle":"dark",
     "navigationBarBackgroundColor": "#748",
     "navigationBarTitleText": "蔡鲁飞",
-    "navigationBarTextStyle":"white",
-    "enablePullDownRefresh":"false"
+    "navigationBarTextStyle":"white"
+  
     
   },
   "style": "v2",
